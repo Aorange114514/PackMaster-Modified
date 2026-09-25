@@ -1,0 +1,10 @@
+{
+  "modid": "pmoverrides",
+  "name": "The Packmaster: Pack Overrides",
+  "author_list": ["riced"],
+  "description": "Rewrites the card lists and descriptions of six Packmaster booster packs.",
+  "version": "1.0.0",
+  "sts_version": "12-18-2022",
+  "mts_version": "v3.30.2",
+  "dependencies": ["basemod", "anniv5"]
+}

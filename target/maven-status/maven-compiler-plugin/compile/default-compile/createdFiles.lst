@@ -1,0 +1,8 @@
+pmoverrides\patches\PackContents$Silent.class
+pmoverrides\patches\PackContents$Defect.class
+pmoverrides\patches\PackContents$Status.class
+pmoverrides\patches\PackContents$Bulwark.class
+pmoverrides\patches\PackContents$Watcher.class
+pmoverrides\PackText.class
+pmoverrides\patches\PackContents$Ironclad.class
+pmoverrides\patches\PackContents.class
